@@ -15,4 +15,4 @@ class Rectange:
 rect = Rectange(5,6)
 
 # calling the instance variable
-rect.breadth
+print(rect.breadth)
