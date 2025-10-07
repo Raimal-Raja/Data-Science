@@ -8,3 +8,10 @@ print(arr2)
 
 # tells you dimension
 print(arr.ndim)
+
+# shape will tell you how many rows and column you have
+print(arr.shape)
+
+
+arr[0] = 50
+print(arr)
