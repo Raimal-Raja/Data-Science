@@ -1,0 +1,1 @@
+'''Data visualization helps to bridge the gap  between numbers and words, DV giving visual context to information to help identify and infer trends, patterns, and ouliers in data sets'''
