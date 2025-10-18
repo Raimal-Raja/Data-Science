@@ -1,0 +1,101 @@
+Company Name,Industry,Country,Founded Year,Number of Employees,Revenue (USD),Website
+Company_001,Education,United Kingdom,1964,550,992773771.75,www.company_001.com
+Company_002,Education,Canada,1957,4825,592911237.97,www.company_002.com
+Company_003,Real Estate,Australia,1971,137,716709262.13,www.company_003.com
+Company_004,Energy,France,1966,3003,85573087.92,www.company_004.com
+Company_005,Real Estate,Australia,2022,3863,307375847.58,www.company_005.com
+Company_006,Retail,United Kingdom,1992,202,373411436.66,www.company_006.com
+Company_007,Energy,United States,1980,4570,384293786.54,www.company_007.com
+Company_008,Real Estate,France,1951,2625,387525715.25,www.company_008.com
+Company_009,Energy,France,1956,4396,443993207.09,www.company_009.com
+Company_010,Technology,United States,2019,3124,550881512.5,www.company_010.com
+Company_011,Real Estate,Japan,1996,2571,963492150.16,www.company_011.com
+Company_012,Healthcare,United States,1957,3937,608450656.7,www.company_012.com
+Company_013,Finance,Japan,1971,2113,343602711.51,www.company_013.com
+Company_014,Real Estate,United States,1995,821,360926484.89,www.company_014.com
+Company_015,Transportation,United States,2019,3044,154803545.21,www.company_015.com
+Company_016,Finance,France,1995,2568,912332150.43,www.company_016.com
+Company_017,Finance,Japan,1998,382,183121056.65,www.company_017.com
+Company_018,Healthcare,Canada,1961,4774,79512229.17,www.company_018.com
+Company_019,Finance,United Kingdom,2019,438,331016481.29,www.company_019.com
+Company_020,Energy,Germany,2020,196,987638047.95,www.company_020.com
+Company_021,Education,Germany,1981,631,457128761.57,www.company_021.com
+Company_022,Technology,Brazil,1988,4646,260958489.72,www.company_022.com
+Company_023,Technology,France,1965,2417,701216610.26,www.company_023.com
+Company_024,Finance,United Kingdom,1985,964,330663806.88,www.company_024.com
+Company_025,Retail,Brazil,1989,2720,841564930.33,www.company_025.com
+Company_026,Retail,Canada,1972,4621,774129604.26,www.company_026.com
+Company_027,Entertainment,Japan,1990,1967,149452033.97,www.company_027.com
+Company_028,Transportation,Canada,1998,1867,786092857.76,www.company_028.com
+Company_029,Entertainment,United States,2001,1954,543784525.16,www.company_029.com
+Company_030,Real Estate,United States,1986,2200,156088806.82,www.company_030.com
+Company_031,Energy,India,2014,4072,212275189.51,www.company_031.com
+Company_032,Transportation,India,2015,314,64792812.54,www.company_032.com
+Company_033,Retail,Germany,2004,1090,557515885.69,www.company_033.com
+Company_034,Technology,India,1963,1644,744238547.74,www.company_034.com
+Company_035,Technology,Japan,2002,3688,659150624.91,www.company_035.com
+Company_036,Real Estate,China,1955,1846,379299370.59,www.company_036.com
+Company_037,Healthcare,Canada,1988,2236,867942953.71,www.company_037.com
+Company_038,Education,United States,1992,2752,857806641.35,www.company_038.com
+Company_039,Energy,Brazil,1960,2422,180638919.05,www.company_039.com
+Company_040,Technology,Australia,1967,3469,241781518.2,www.company_040.com
+Company_041,Manufacturing,Canada,1975,4261,529403703.56,www.company_041.com
+Company_042,Real Estate,China,2002,4183,692195762.26,www.company_042.com
+Company_043,Energy,India,2011,1602,502566396.92,www.company_043.com
+Company_044,Finance,Canada,1952,2770,560955584.7,www.company_044.com
+Company_045,Entertainment,Australia,1962,546,19394193.1,www.company_045.com
+Company_046,Entertainment,Brazil,1955,4515,799895911.54,www.company_046.com
+Company_047,Manufacturing,Australia,1987,3464,926243048.32,www.company_047.com
+Company_048,Education,Australia,1967,222,604937921.13,www.company_048.com
+Company_049,Technology,Japan,2007,612,499785397.96,www.company_049.com
+Company_050,Entertainment,United States,1996,2721,921452416.97,www.company_050.com
+Company_051,Healthcare,United States,1985,2999,108541483.05,www.company_051.com
+Company_052,Finance,Canada,2004,1817,400779033.99,www.company_052.com
+Company_053,Education,Germany,1959,4890,827966290.2,www.company_053.com
+Company_054,Education,Canada,2010,4443,531732399.44,www.company_054.com
+Company_055,Energy,Brazil,1976,1824,842532335.12,www.company_055.com
+Company_056,Real Estate,Canada,1999,4023,932994433.12,www.company_056.com
+Company_057,Manufacturing,United States,2013,4037,772144548.02,www.company_057.com
+Company_058,Healthcare,Brazil,1979,560,370733854.74,www.company_058.com
+Company_059,Retail,Brazil,1989,654,952180581.57,www.company_059.com
+Company_060,Manufacturing,Brazil,1966,1068,517506327.38,www.company_060.com
+Company_061,Finance,Brazil,2014,284,216153024.17,www.company_061.com
+Company_062,Entertainment,Japan,1961,686,498795711.49,www.company_062.com
+Company_063,Healthcare,United States,2010,4013,706977624.62,www.company_063.com
+Company_064,Energy,Brazil,1975,382,736904958.89,www.company_064.com
+Company_065,Finance,United States,1999,3599,764204603.98,www.company_065.com
+Company_066,Energy,United Kingdom,1976,4795,802107458.63,www.company_066.com
+Company_067,Retail,United Kingdom,1982,710,254926886.33,www.company_067.com
+Company_068,Technology,United States,2012,4567,672853744.77,www.company_068.com
+Company_069,Transportation,United States,1976,3341,563911073.22,www.company_069.com
+Company_070,Manufacturing,China,1978,4988,629194366.97,www.company_070.com
+Company_071,Finance,Brazil,2010,1219,982254942.08,www.company_071.com
+Company_072,Retail,United Kingdom,1957,3370,264064238.52,www.company_072.com
+Company_073,Technology,Canada,1950,353,966170189.7,www.company_073.com
+Company_074,Finance,Australia,2008,2550,496342763.0,www.company_074.com
+Company_075,Manufacturing,India,2021,447,58160502.64,www.company_075.com
+Company_076,Manufacturing,Germany,1982,2362,728182146.16,www.company_076.com
+Company_077,Finance,Brazil,1970,458,651797449.3,www.company_077.com
+Company_078,Entertainment,Australia,2020,1689,889092309.82,www.company_078.com
+Company_079,Retail,China,2016,4310,693170842.31,www.company_079.com
+Company_080,Technology,India,2007,2983,855801732.6,www.company_080.com
+Company_081,Education,Australia,1974,1181,206188581.74,www.company_081.com
+Company_082,Energy,Germany,1978,739,824291042.87,www.company_082.com
+Company_083,Technology,Canada,1955,3769,321180576.38,www.company_083.com
+Company_084,Manufacturing,Canada,2009,1343,210716286.14,www.company_084.com
+Company_085,Entertainment,France,1964,4750,422428825.8,www.company_085.com
+Company_086,Finance,France,1987,1924,454517002.3,www.company_086.com
+Company_087,Entertainment,United States,1990,235,301442099.25,www.company_087.com
+Company_088,Entertainment,Japan,1954,2382,116005742.26,www.company_088.com
+Company_089,Healthcare,China,1998,130,830592559.81,www.company_089.com
+Company_090,Real Estate,China,1966,4977,216972166.5,www.company_090.com
+Company_091,Retail,United Kingdom,2010,211,381784678.27,www.company_091.com
+Company_092,Retail,Brazil,1959,3673,663854966.66,www.company_092.com
+Company_093,Entertainment,Japan,1954,955,950258866.97,www.company_093.com
+Company_094,Education,United Kingdom,1995,1812,206318819.99,www.company_094.com
+Company_095,Education,France,1998,4482,637546568.85,www.company_095.com
+Company_096,Finance,United Kingdom,1979,3193,800576651.84,www.company_096.com
+Company_097,Retail,Australia,1985,3744,201768416.12,www.company_097.com
+Company_098,Manufacturing,United States,1978,3486,465736560.35,www.company_098.com
+Company_099,Healthcare,Canada,1980,1642,584014312.77,www.company_099.com
+Company_100,Transportation,United States,2000,263,942883297.9,www.company_100.com
