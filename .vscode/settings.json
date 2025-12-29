@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./Python For Data Science/8_",
+        "./Python For Data Science/8_"
+    ]
+}
