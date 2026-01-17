@@ -40,3 +40,11 @@ INSERT INTO orders (orderId, customerId, employeeId, orderDate, shipperId) VALUE
 
 select * from customers;
 
+select * from customers c left join orders o
+on c.customerId = o.customerId;
+
+select * from customers c right join orders o
+on c.customerId = o.customerId;
+
+select * from customers c inner join orders o
+on c.customerId = o.customerId;
