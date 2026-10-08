@@ -3,9 +3,9 @@ Complete data science (Machine learning, Artificial Intelligent, Deep Learning, 
 
 ---
 
-## Repository guide
+## Setup and repository reference
 
-### Contents
+### Project structure
 
 - [Chapter - 1 - Python for Data  Science](Chapter%20-%201%20-%20Python%20for%20Data%20%20Science)
 - [Chapter - 2 - Business Statistics](Chapter%20-%202%20-%20Business%20Statistics)
@@ -14,7 +14,6 @@ Complete data science (Machine learning, Artificial Intelligent, Deep Learning, 
 - [Chapter - 5 - Machine Learning](Chapter%20-%205%20-%20Machine%20Learning)
 - [Chapter - 8 - Natural Language Processing](Chapter%20-%208%20-%20Natural%20Language%20Processing)
 - [LICENSE](LICENSE)
-- [README.md](README.md)
 - [datasets](datasets)
 - [file2.txt](file2.txt)
 
@@ -29,9 +28,15 @@ Open the relevant .ipynb notebook in Jupyter or a compatible notebook environmen
 
 ### Configuration and limitations
 
+Open notebooks individually and inspect dependency/data-loading cells before execution. Standalone Python examples may expect local data or services. No notebook training run was performed in this audit.
+
 ### Validation
 
-Reviewed on 2026-10-08. Python syntax checks passed for 11 source files. Syntax validation does not establish runtime correctness or dependency compatibility.
+Audit: 2026-10-08. Repository structure, setup instructions and description were reviewed. 11 existing Python files passed syntax checks; changed files and new regression tests were checked separately. Syntax checks do not establish full runtime correctness. External APIs, live scraping, GUI interaction, notebook training and production deployment were not comprehensively exercised.
+
+### Repository description
+
+The short GitHub description is provided in [REPOSITORY_DESCRIPTION.md](REPOSITORY_DESCRIPTION.md).
 
 ### Contributions
 
